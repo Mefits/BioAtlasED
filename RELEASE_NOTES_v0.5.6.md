@@ -1,22 +1,13 @@
-# BioAtlas v0.5.6 (Windows x64)
+# BioAtlasED v0.5.6
 
-An early public build of BioAtlas, a companion for **Elite Dangerous** exploration and exobiology.
+### Русский
 
-## What's included
-- Redesigned Atlas, Expedition, Engineering, Inventory and Settings screens.
-- Fleet Carrier and neutron-route preparation tools.
-- F11 / Next route safeguard: the waypoint stays locked until the game journal confirms arrival.
-- Improved planet-card labels including numeric suffixes.
-- Original Stratum Tectonicas filtering restored (experimental expansion removed).
+BioAtlasED — приложение для Elite Dangerous, которое объединяет поиск перспективных районов для экзобиологии, построение маршрутов и сопровождение экспедиции в одном окне. Дополнительно доступны инструменты для флотоносца, нейтронных маршрутов, инженеров и материалов.
 
-## Installation
-1. Download the Windows x64 ZIP from the release **Assets**.
-2. Extract the whole archive; do not move the executable out of its folder.
-3. Run **БиоАтлас Qt.exe** inside **BioAtlas-Qt**.
-4. Check the journal directory under **Settings** if needed.
+### English
 
-## Known limitations
-- Neutron routing depends on the external Spansh service.
-- This is an early build; the archive was verified for integrity, but Windows integration tests were not completed in the build environment.
+BioAtlasED is a companion app for Elite Dangerous that brings exobiology region discovery, route planning, and expedition tracking into one window. It also includes tools for Fleet Carriers, neutron routes, engineers, and materials.
 
-Please report issues with steps to reproduce and, when possible, screenshots. Do not attach private journal/database files publicly without checking them first.
+**Windows x64:** скачайте ZIP из **Assets** / download the ZIP from **Assets**, распакуйте / extract it, запустите / run `BioAtlasED.exe`.
+
+*Early release. Unofficial fan project, not affiliated with Frontier Developments.*
